@@ -1,0 +1,39 @@
+"id","name","unit","quantity","calories","protein_grams","carb_grams","fat_grams"
+3,"chicken breast","ounces",1,42.5,8.5,0,1
+5,"bacon","slices",2,70,4,0,6
+4,"beef for stew Sams","ounces",4,181,25,0,9
+6,"apple pie","ounces",1,42.5,8.5,0,1
+7,"chicken breast","ounces",6,255,51,0,6
+8,"chicken salad (SAMS)","serving",1,140,14,10,4
+9,"chicken breast","grams",10,15,3,0,0.35
+11,"chicken breast","ounces",12,510,102,0,12
+12,"chicken breast","grams",100,165,31,0,3.5
+10,"chicken breast","ounces",4,170,34,0,4
+14,"chicken breast","ounces",8,340,68,0,8
+13,"chicken thigh","grams",112,184,27,0,8.7
+16,"chicken breast","ounces",1,42.5,8.5,0,1
+15,"chicken breast - canned","can",1,350,60,0,7.5
+17,"Deli Meat (Honey Ham)","ounces",2,80,10,3,2.5
+18,"Deli Meat (Hickory Smoked Turkey)","ounces",4,120,22,2,2
+19,"egg whole","large",1,69,6,0,5
+20,"hot dog (bun length 98% ff wieners)","whole",1,40,5,3,0.5
+21,"egg white","large",1,14,3.5,0,0
+22,"hot dog (bun length turkey only)","whole",1,120,6,3,10
+23,"pork loin","ounces",4,210,23,0,12
+24,"peanuts","whole",20,80,3.5,3.5,6.5
+25,"pork loin (fat trimmed)","ounces",4,178,24,0,8
+26,"shrimp","ounces",3,84,18,0,1
+27,"protein powder","scoop",1,120,20,9,1
+28,"steak sirloin cooked","ounces",1,50,9,0,1.4
+29,"steak chuck tender","ounces",4,183,30,0,6.5
+30,"new york strip steak - no fat","grams",100,182,29,0,6
+31,"steak sirloin angus","ounces",4,203,32,0,7.5
+32,"beef bottom sirloin tip cooked no fat","ounces",6,420,54,0,24
+33,"beef bottom sirloin tip cooked no fat","ounces",1,70,9,0,4
+34,"steak sirloin tips - raw","ounces",8,320,46,0,14
+35,"steak skirt","ounces",4,289,26.5,0,19.5
+36,"turkey - ground - cooked","ounces",1,44.75,6.25,0,2.25
+37,"tuna - canned","ounces",5,100,20,0,2
+38,"turkey - ground - cooked","ounces",4,193,22,0,11
+39,"turkey - ground - cooked","ounces",6,268.5,37.5,0,13.5
+40,"turkey - ground - cooked","ounces",8,358,50,0,18
